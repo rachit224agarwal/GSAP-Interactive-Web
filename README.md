@@ -4,8 +4,7 @@ A simple interactive web project using **GSAP** to create smooth cursor animatio
 
 ## Features
 - Smooth cursor tracking animation  
-- Interactive elements using GSAP  
-- Responsive and lightweight  
+- Interactive elements using GSAP    
 
 ## Technologies Used
 - HTML  
